@@ -5,7 +5,7 @@ cur.width = 20
 cur.height = 2
 cur.rotationLock = true;
 let score = 0;
-let health = 100
+let health = 20
 let isOver = false;
 function gameOver() {
 	background('black');
